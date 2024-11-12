@@ -1,6 +1,6 @@
 class_name CPModConfig
 
-const ROOT_DIR_NAME := "StarPanda-ChallengePack"
+const ROOT_DIR_NAME := "TotoBOPE-ItemSelection"
 
 static var loaded := false
 static var manifest : Dictionary

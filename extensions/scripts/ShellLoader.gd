@@ -1,6 +1,6 @@
 extends "res://scripts/ShellLoader.gd"
 
-const CPGameConfig = preload("res://mods-unpacked/StarPanda-ChallengePack/util/CPGameConfig.gd")
+const CPGameConfig = preload("res://mods-unpacked/TotoBOPE-ItemSelection/util/CPGameConfig.gd")
 
 var modePhrases := {
 	CPGameConfig.GameMode.QUANTITY: ["Some of them are live.", "Now this is a real game."],

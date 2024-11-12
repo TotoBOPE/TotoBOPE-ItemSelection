@@ -1,6 +1,6 @@
 extends "res://scripts/DeathManager.gd"
 
-const STPND_CHALLENGEPACK_LOG := "StarPanda-ChallengePack:DeathManager"
+const STPND_CHALLENGEPACK_LOG := "TotoBOPE-ItemSelection:DeathManager"
 
 signal cp_death
 

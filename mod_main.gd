@@ -1,8 +1,8 @@
 extends Node
 
 const CPModConfig = preload("./util/CPModConfig.gd")
-const AUTHORNAME_MODNAME_DIR := "TotoBOPE-ItemSelection"
 const AUTHORNAME_MODNAME_LOG_NAME := "TotoBOPE-ItemSelection:Main"
+
 var mod_dir_path := ""
 var patches_dir_path := ""
 

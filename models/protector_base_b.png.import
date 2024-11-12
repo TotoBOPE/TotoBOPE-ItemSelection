@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs1ty23171m7g"
-path.s3tc="res://.godot/imported/protector_base_b.png-b4325bff1c359c8795b104ccbf548424.s3tc.ctex"
+path.s3tc="res://.godot/imported/protector_base_b.png-73408ad4f1fca262d364ce7b7d727a5e.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://mods-root/mods-unpacked/StarPanda-ChallengePack/models/protector_base_b.png"
-dest_files=["res://.godot/imported/protector_base_b.png-b4325bff1c359c8795b104ccbf548424.s3tc.ctex"]
+source_file="res://mods-unpacked/TotoBOPE-ItemSelection/models/protector_base_b.png"
+dest_files=["res://.godot/imported/protector_base_b.png-73408ad4f1fca262d364ce7b7d727a5e.s3tc.ctex"]
 
 [params]
 

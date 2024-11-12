@@ -1,6 +1,6 @@
 extends "./patch.gd"
 
-const STPND_CHALLENGEPACK_LOG := "StarPanda-ChallengePack:MainPatch"
+const STPND_CHALLENGEPACK_LOG := "TotoBOPE-ItemSelection:MainPatch"
 const CPGameConfig = preload("../util/CPGameConfig.gd")
 
 var applied_main = false

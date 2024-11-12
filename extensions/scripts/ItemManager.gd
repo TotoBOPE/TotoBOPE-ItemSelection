@@ -1,6 +1,6 @@
 extends "res://scripts/ItemManager.gd"
 
-const STPND_CHALLENGEPACK_LOG := "StarPanda-ChallengePack:ItemManager"
+const STPND_CHALLENGEPACK_LOG := "TotoBOPE-ItemSelection:ItemManager"
 
 signal cp_steal_start
 signal cp_steal_end

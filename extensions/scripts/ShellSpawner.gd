@@ -1,6 +1,6 @@
 extends "res://scripts/ShellSpawner.gd"
 
-const CPGameConfig = preload("res://mods-unpacked/StarPanda-ChallengePack/util/CPGameConfig.gd")
+const CPGameConfig = preload("res://mods-unpacked/TotoBOPE-ItemSelection/util/CPGameConfig.gd")
 
 func SpawnShells(numberOfShells : int, numberOfLives : int, numberOfBlanks : int, shufflingArray : bool):
 	var current_mode = ProjectSettings.get_setting("challengepack_mode", 0)

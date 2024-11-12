@@ -1,7 +1,7 @@
 extends "./patch.gd"
 
 const CPGameOptionsMenuManager = preload("../util/CPGameOptionsMenuManager.gd")
-const STPND_CHALLENGEPACK_LOG := "StarPanda-ChallengePack:MenuPatch"
+const STPND_CHALLENGEPACK_LOG := "TotoBOPE-ItemSelection:MenuPatch"
 
 var manager: CPGameOptionsMenuManager
 
