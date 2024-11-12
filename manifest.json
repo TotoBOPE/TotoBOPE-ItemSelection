@@ -1,0 +1,21 @@
+{
+  "name": "ItemSelection",
+  "namespace": "TotoBOPE",
+  "version_number": "1.0.0",
+  "description": "Enables to add/remove items from the item pool",
+  "website_url": "https://github.com/TotoBOPE/BR_Item_Fix.git",
+  "dependencies": [],
+  "extra": {
+	"godot": {
+	  "compatible_mod_loader_version": ["4.0.0"],
+	  "compatible_game_version": ["1.2.0", "1.2.1", "1.2.2"],
+	  "authors": ["TotoBOPE"],
+	  "tags": [],
+	  "description_rich": "",
+	  "optional_dependencies": [],
+	  "load_before": [],
+	  "incompatibilities": [],
+	  "config_schema": {}
+	}
+  }
+}
